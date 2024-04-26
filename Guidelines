@@ -5,5 +5,5 @@ to find source run findcamera.py
 test for multithreading using threadtest.py 
 it must return "is available"
 pip install -r requirements.txt
-
+python3 train.py --img 640 --batch 16 --epochs 50 --data data/cones.yaml --weights yolov5s.pt
 https://github.com/ikatsamenis/Cone-Detection/tree/main
