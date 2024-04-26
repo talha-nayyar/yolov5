@@ -1,6 +1,6 @@
 # cones.yaml
-train: /yolov5/yolov5/Cone-Detection/TraCon_dataset/images/train  # path to training images
-val: /yolov5/yolov5/Cone-Detection/TraCon_dataset/images/val     # path to validation images
+train: /home/talha/yolov5/yolov5/Cone-Detection/TraCon_dataset/images/train  # path to training images
+val: /home/talha/yolov5/yolov5/Cone-Detection/TraCon_dataset/images/val     # path to validation images
 
 # Number of classes
 nc: 1
