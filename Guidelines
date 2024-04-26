@@ -1,6 +1,6 @@
 Guidelines
 python3 detect.py --weights yolov5s.pt --source 0
-python3 detect.py --weights runs/train/exp2/weights/best.pt --source 0
+python3 detect.py --weights Runs/train/exp2/weights/best.pt --source 0
 to find source run findcamera.py
 test for multithreading using threadtest.py 
 it must return "is available"
