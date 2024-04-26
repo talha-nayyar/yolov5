@@ -1,0 +1,3 @@
+[submodule "Cone-Detection"]
+	path = Cone-Detection
+	url = https://github.com/ikatsamenis/Cone-Detection.git
