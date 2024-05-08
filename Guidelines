@@ -2,6 +2,7 @@ Guidelines
 python3 detect.py --weights yolov5s.pt --source 0
 python3 detect.py --weights Runs/train/exp2/weights/best.pt --source 0
 to find source run findcamera.py
+the number returned with the functional camera is used in the number after '--source' to run in the detect.py command
 test for multithreading using threadtest.py 
 it must return "is available"
 pip install -r requirements.txt
